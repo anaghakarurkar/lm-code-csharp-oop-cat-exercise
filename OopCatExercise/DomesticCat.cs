@@ -24,5 +24,9 @@ namespace OopCatExercise
             return DOMESTIC_CAT_SOUND;
         }
 
+        public string Eat(string dismissiveSound)
+        {
+             return dismissiveSound;
+        }
     }
 }
